@@ -1,4 +1,6 @@
 {
   "item.create_science.phasomid_alloy": "Phasomid",
-  "item.create_science.phasomid_resonant_alloy": "Phasomid Resonant"
+  "item.create_science.phasomid_resonant_alloy": "Phasomid Resonant",
+
+  "itemGroup.create_science_tab": "Create: Science"
 }
