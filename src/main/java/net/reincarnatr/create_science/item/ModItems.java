@@ -13,9 +13,9 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, CreateScience.MOD_ID);
 
     public static final RegistryObject<Item> PHASOMID = ITEMS.register("phasomid_alloy",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CREATE_SCIENCE)));
     public static final RegistryObject<Item> PHASOMID_RESONANT = ITEMS.register("phasomid_resonant_alloy",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MATERIALS)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.CREATE_SCIENCE)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
