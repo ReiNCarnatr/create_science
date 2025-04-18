@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create_science:phasomid_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "create_science:phasomid_alloy"
+  }
+
+}
