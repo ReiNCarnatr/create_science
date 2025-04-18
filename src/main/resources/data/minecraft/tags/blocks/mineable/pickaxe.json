@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_science:phasomid_block",
+    "create_science:phasomid_resonant_block"
+  ]
+}
