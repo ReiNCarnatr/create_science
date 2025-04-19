@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:brass_ingot"
+    },
+    {
+      "tag": "minecraft:amethyst_shard"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_science:phasomid_alloy"
+    }
+  ]
+}

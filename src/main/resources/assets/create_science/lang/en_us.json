@@ -1,0 +1,9 @@
+{
+  "item.create_science.phasomid_alloy": "Phasomid",
+  "item.create_science.phasomid_resonant_alloy": "Phasomid Resonant",
+
+  "block.create_science.phasomid_block": "Phasomid Block",
+  "block.create_science.phasomid_resonant_block": "Phasomid Resonant Block",
+
+  "creativetab.create_science_tab": "Create: Science"
+}
